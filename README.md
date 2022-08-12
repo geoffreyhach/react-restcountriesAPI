@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
--   Solution URL: [Add solution URL here](https://github.com/geoffjecrois/react-restcountriesAPI)
--   Live Site URL: [Add live site URL here](https://geoffjecrois.github.io/react-restcountriesAPI)
+-   Solution URL: [Repo](https://github.com/geoffjecrois/react-restcountriesAPI)
+-   Live Site URL: [Live](https://geoffjecrois.github.io/react-restcountriesAPI)
 
 ### Built with
 
@@ -46,6 +46,6 @@ Users should be able to:
 
 ## Author
 
--   Website - [Add your name here](https:/geoffreyhach.fr)
--   Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/geoffjecrois)
--   Twitter - [@yourusername](https://twitter.com/geoffjecrois)
+-   Website - [Geoffrey Hach](https:/geoffreyhach.fr)
+-   Frontend Mentor - [@geoffjecrois](https://www.frontendmentor.io/profile/geoffjecrois)
+-   Twitter - [@geoffjecrois](https://twitter.com/geoffjecrois)
