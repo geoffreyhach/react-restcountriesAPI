@@ -56,7 +56,6 @@ const CountryInfo = ({ countryData }) => {
                 <span>Border Countries: </span>
                 {countryData.borders ? (
                     <div>
-                        {" "}
                         {countryData.borders.map((c) => (
                             <div key={c} className="borders-btn">
                                 {c}
